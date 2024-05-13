@@ -55,50 +55,44 @@ Chosen texts (from validation)
 - hard-72
 - hard-656
 
-Version 3
-hard-370
-medium-17
-hard-501
-hard-784
+#### Version 3
 
----
+- hard-370
+- medium-17
+- hard-501
+- hard-784
 
-Version 4
-medium-659
-hard-555
-hard-3
-hard-624
+#### Version 4
 
----
+- medium-659
+- hard-555
+- hard-3
+- hard-624
 
-Version 5
-medium-445
-hard-808
-medium-85
-medium-746
+#### Version 5
 
----
+- medium-445
+- hard-808
+- medium-85
+- medium-746
 
-Version 6
-hard-547
-hard-862
-medium-192
-hard-24
+#### Version 6
 
----
+- hard-547
+- hard-862
+- medium-192
+- hard-24
 
-Version 7
-medium-31
-medium-269
-hard-121
-medium-889
+#### Version 7
 
----
+- medium-31
+- medium-269
+- hard-121
+- medium-889
 
-Version 8
-hard-118
-hard-762
-hard-693
-medium-253
+#### Version 8
 
----
+- hard-118
+- hard-762
+- hard-693
+- medium-253
