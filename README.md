@@ -89,7 +89,8 @@ Calibration: hard-252
 #### Version 7
 
 - medium-31
-- medium-269
+- medium-269 -> pravila ponašanja
+    - switch with medium-277 (svi između su jako dugi)
 - hard-121
 - medium-889
 
