@@ -43,24 +43,25 @@ Chosen texts (from validation)
 
 #### Version 1
 
-- medium-533
-- medium-677
-- hard-51
-- medium-84
+- medium-533 => BOT
+  - switch with medium-534 => OK
+- medium-677 => OK
+- hard-51 => OK
+- medium-84 => OK
 
 #### Version 2
 
-- medium-492
-- medium-564
-- hard-72
-- hard-656
+- medium-492 => OK
+- medium-564 => OK
+- hard-72 => OK
+- hard-656 => OK
 
 #### Version 3
 
-- hard-370
-- medium-17
-- hard-501
-- hard-784
+- hard-370 => OK
+- medium-17 => OK
+- hard-501 => OK
+- hard-784 => OK
 
 #### Version 4
 
