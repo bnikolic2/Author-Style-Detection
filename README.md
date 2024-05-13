@@ -9,3 +9,11 @@ Three levels: easy - paragraphs from different topics, medium - paragraphs from 
 
 8 versions of form each consisting of 5 texts: 1 for example and 4 for annotating
 The random sampling is done in form.ipynb notebook
+
+Postotci zastupljenosti levela u anketama:
+easy +++++++++++++ = 13 (41%)
+medium ++++++++++ = 10 (31%)
+hard +++++++++ = 9 (28%)
+
+Napomene za ankete:
+verzija 4 - tekst 5: paragraf sa primanjem moderator prijava
