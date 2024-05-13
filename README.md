@@ -30,4 +30,11 @@ Postotci zastupljenosti levela u anketama:
 Napomene za ankete:
 
 - verzija 4
+
   - tekst 5: paragraf sa primanjem moderator prijava
+
+- uzet tekstove iz validacije
+- spol, dob, faks, stupanj obrazovanja, struka
+- LLM
+- izbacit botove
+- BERT fine-tuning
