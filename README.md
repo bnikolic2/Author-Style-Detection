@@ -41,6 +41,8 @@ Napomene za ankete:
 
 Chosen texts (from validation)
 
+Calibration: hard-252
+
 #### Version 1
 
 - medium-533 => BOT
