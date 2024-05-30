@@ -1,0 +1,5 @@
+text-id,annotator_label
+hard-547,"[array([1, 0, 1, 1], dtype=int64), array([1, 1, 0, 0], dtype=int64), array([1, 0, 0, 1], dtype=int64), array([1, 1, 1, 1], dtype=int64), array([1, 1, 1, 1], dtype=int64), array([1, 1, 1, 1], dtype=int64), array([1, 1, 1, 1], dtype=int64)]"
+hard-862,"[array([1, 1, 1, 0, 1], dtype=int64), array([0, 0, 1, 1, 1], dtype=int64), array([0, 0, 0, 0, 1], dtype=int64), array([1, 1, 1, 0, 1], dtype=int64), array([1, 0, 1, 1, 1], dtype=int64), array([1, 1, 0, 1, 1], dtype=int64), array([0, 0, 1, 0, 1], dtype=int64)]"
+medium-192,"[array([1, 1, 1, 0], dtype=int64), array([0, 1, 1, 0], dtype=int64), array([0, 0, 1, 1], dtype=int64), array([1, 1, 1, 0], dtype=int64), array([1, 1, 1, 0], dtype=int64), array([0, 1, 1, 0], dtype=int64), array([1, 0, 0, 1], dtype=int64)]"
+hard-24,"[array([0, 1, 0, 1, 1, 1], dtype=int64), array([1, 0, 1, 0, 1, 1], dtype=int64), array([0, 0, 0, 1, 1, 1], dtype=int64), array([0, 0, 1, 1, 1, 1], dtype=int64), array([1, 1, 1, 1, 1, 1], dtype=int64), array([0, 1, 0, 1, 0, 1], dtype=int64), array([1, 1, 1, 1, 1, 1], dtype=int64)]"
